@@ -7,7 +7,7 @@
         <a href="/projects" class="link">Портфолио</a>
         <a href="/contact" class="link">Контакты</a>
     </div>
-    </div>
+</div>
 </nav>
 
 <div class="container">
